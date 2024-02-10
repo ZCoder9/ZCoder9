@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zpatiwala" target="blank"><img src="https://img.shields.io/twitter/follow/zpatiwala?logo=twitter&style=for-the-badge" alt="zpatiwala" /></a> </p>
 
-- 💬 Ask me about **Python, SQL, DBMS, Django, Rest API, Selenium, Shell Scripting**
+- 💬 Ask me about **Python, Machine Learning, Django, Data Analysis, Rest API, Selenium, Shell Scripting, Web Scraping**
 
 - 📫 How to reach me **ziyanpatiwala9@gmail.com**
 
