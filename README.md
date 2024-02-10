@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zcoder9&label=Profile%20views&color=0e75b6&style=flat" alt="zcoder9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zpatiwala" target="blank"><img src="https://img.shields.io/twitter/follow/zpatiwala?logo=twitter&style=for-the-badge" alt="zpatiwala" /></a> </p>
+<p align="center"> <a href="https://twitter.com/zpatiwala" target="blank"><img src="https://img.shields.io/twitter/follow/zpatiwala?logo=twitter&style=for-the-badge" alt="zpatiwala" /></a> </p>
 
 - 💬 Ask me about **Python, SQL, DBMS, Django, Rest API, Selenium, Shell Scripting**
 
